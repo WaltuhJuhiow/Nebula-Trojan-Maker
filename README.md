@@ -4,7 +4,7 @@ Simple project of The ultimate engine for creating silent, FUD (Fully Undetectab
 
 ### (1) Integrity & Core Security Audit
 
-We understand that trust is the foundation of the Nebula Ecosystem. To ensure the safety of our users, the Launcher.bat has been scanned with the finest Analysis tools in the web.
+We understand that trust is the foundation of the Nebula Ecosystem. To reinforce the trust of our users, the Launcher.bat has been scanned with the finest Analysis tools in the web.
 
 **Analysis Reports:**
 [VirusTotal Analysis](https://www.virustotal.com/gui/file/f21cf6bc691fd184ca65a4238507dab5478d87e884fe6dbf02b818cfe6ce85a5) [Tria.ge Analysis](https://tria.ge/260309-kegj9sft41/behavioral1)
